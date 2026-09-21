@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://youtube-to-video.github.io/sitemap.xml
